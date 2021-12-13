@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="text_bienvenida">Bienvenido Gnomo ?!</string>
+    <string name="text_list_head">Últimos 10 gnomos que pulsaron el botón:</string>
+    <string name="text_main_header">Pulse el botón señor gnomo</string>
+    <string name="gnomo_boton">GNOMO BOTON</string>
+    <string name="text_gnome_id">Gnome ID</string>
+    <string name="text_gnome_number">Gnome Number</string>
+    <string name="gnome_id_value">ID</string>
+    <string name="gnome_number_value">number</string>
+</resources>
