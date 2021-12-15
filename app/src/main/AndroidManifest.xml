@@ -17,6 +17,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ActivityListView"
+                    android:parentActivityName=".MainActivity"
+                    android:exported="true">
+        </activity>
     </application>
 
 </manifest>
